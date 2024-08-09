@@ -137,4 +137,4 @@ sudo cp -r wordpress/* /var/www/html/
 sudo service httpd restart
 ```
 
-**Get your instance public IP and Paster it in browser, It should give you wordpress initial configuration page.** 
+**Get your instance public IP and Paste it in browser, It should give you wordpress initial configuration page.** 
